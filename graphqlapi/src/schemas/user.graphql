@@ -1,0 +1,10 @@
+type User {
+    id: String
+    name: String
+    role: String
+    hourlyPrice: Int
+}
+
+type Query {
+    getUsers: [User]
+}

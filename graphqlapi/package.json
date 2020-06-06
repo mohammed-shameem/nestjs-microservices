@@ -28,7 +28,7 @@
     "amqp-connection-manager": "^3.2.0",
     "amqplib": "^0.5.5",
     "nodemon": "^1.18.3",
-    "apollo-server-express": "^2.9.16",
+    "apollo-server-express": "^2.14.2",
     "graphql": "^14.5.8",
     "graphql-tools": "^4.0.6",
     "reflect-metadata": "^0.1.13",
